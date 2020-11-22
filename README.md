@@ -1,3 +1,5 @@
 ### Alfred Workflows w/ TypeScript
 
-TODO - add notes to README.md
+Just a small experiment in running Node/TypeScript scripts through an Alfred Workflow.
+
+Open `Run TypeScript.alfredworkflow` locally configure repository location + script names as-needed.
