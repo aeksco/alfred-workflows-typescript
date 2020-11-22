@@ -1,6 +1,6 @@
 {
-  "name": "alfred-workflows-ts",
-  "description": "Run Node.js + TypeScript scripts through Alfred App on MacOS",
+  "name": "alfred-workflows-typescript",
+  "description": "Run Node.js + TypeScript scripts through an Alfred workflow",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
